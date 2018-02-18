@@ -1,0 +1,13 @@
+{
+	"name":"juetan/demo",
+	"description":"a test composer project",
+	"type":"project",
+	"License":"MIT",
+	"authors":[
+		{
+			"name":"juetan",
+			"email":"810335188@qq.com"
+		}
+	],
+	"minimum-stability":"dev"
+}
