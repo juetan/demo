@@ -1,0 +1,2 @@
+This is my first git respository.
+I will use it for my study of git.
